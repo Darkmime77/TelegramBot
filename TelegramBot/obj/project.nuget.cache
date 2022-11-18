@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lEF+htFv9AXg2Y7LT/1+bRUGuWgfLn4Qr1eeZ16w7PEyKXm/m0AZgm/MiPxTYVQa91nIoqlpMtt0Us7JaKjttw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Илья\\source\\repos\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Илья\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Илья\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Илья\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Илья\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
