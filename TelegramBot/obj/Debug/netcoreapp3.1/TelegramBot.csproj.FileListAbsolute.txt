@@ -20,3 +20,25 @@ C:\Users\Илья\source\repos\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\S
 C:\Users\Илья\source\repos\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
 C:\Users\Илья\source\repos\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
 C:\Users\Илья\source\repos\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\TelegramBot.exe
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\TelegramBot.deps.json
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\TelegramBot.runtimeconfig.json
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\TelegramBot.runtimeconfig.dev.json
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\TelegramBot.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\TelegramBot.pdb
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.csproj.AssemblyReference.cache
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.AssemblyInfo.cs
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.csproj.CopyComplete
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.dll
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.pdb
+C:\Users\Илья Хлебников\source\repos\Darkmime77\TelegramBot\TelegramBot\obj\Debug\netcoreapp3.1\TelegramBot.genruntimeconfig.cache

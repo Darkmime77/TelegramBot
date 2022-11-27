@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Илья\\source\\repos\\TelegramBot\\TelegramBot\\TelegramBot.csproj": {}
+    "C:\\Users\\Илья Хлебников\\source\\repos\\Darkmime77\\TelegramBot\\TelegramBot\\TelegramBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Илья\\source\\repos\\TelegramBot\\TelegramBot\\TelegramBot.csproj": {
+    "C:\\Users\\Илья Хлебников\\source\\repos\\Darkmime77\\TelegramBot\\TelegramBot\\TelegramBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Илья\\source\\repos\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
+        "projectUniqueName": "C:\\Users\\Илья Хлебников\\source\\repos\\Darkmime77\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
         "projectName": "TelegramBot",
-        "projectPath": "C:\\Users\\Илья\\source\\repos\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
-        "packagesPath": "C:\\Users\\Илья\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Илья\\source\\repos\\TelegramBot\\TelegramBot\\obj\\",
+        "projectPath": "C:\\Users\\Илья Хлебников\\source\\repos\\Darkmime77\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
+        "packagesPath": "C:\\Users\\Илья Хлебников\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Илья Хлебников\\source\\repos\\Darkmime77\\TelegramBot\\TelegramBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Илья\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Илья Хлебников\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "System.Drawing.Common": {
               "target": "Package",
@@ -47,6 +47,10 @@
             "Telegram.Bot": {
               "target": "Package",
               "version": "[18.0.0, )"
+            },
+            "Telegram.Bot.Extensions.Polling": {
+              "target": "Package",
+              "version": "[1.0.2, )"
             }
           },
           "imports": [
@@ -64,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

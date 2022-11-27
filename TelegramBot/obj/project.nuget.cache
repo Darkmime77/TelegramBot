@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "lEF+htFv9AXg2Y7LT/1+bRUGuWgfLn4Qr1eeZ16w7PEyKXm/m0AZgm/MiPxTYVQa91nIoqlpMtt0Us7JaKjttw==",
+  "dgSpecHash": "xAQV+F7CDMo7BKGBGLEwms9u/T6Y5Uuh63uLG26noDi4x3UYQpcRDBNFUH3XpU8uoPIZyggt1mbrql9ibM8fJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Илья\\source\\repos\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
+  "projectFilePath": "C:\\Users\\Илья Хлебников\\source\\repos\\Darkmime77\\TelegramBot\\TelegramBot\\TelegramBot.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Илья\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\Илья\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
-    "C:\\Users\\Илья\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
-    "C:\\Users\\Илья\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+    "C:\\Users\\Илья Хлебников\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Илья Хлебников\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Илья Хлебников\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Илья Хлебников\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Илья Хлебников\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Илья Хлебников\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }
